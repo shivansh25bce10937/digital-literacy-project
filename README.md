@@ -28,6 +28,7 @@ This repository contains the 5 tasks given in the project overview for the Vitya
 
 ### [Task 3: Digital Skills Assessment](./task-3-quiz/)
 * Contains the **Google Form** quiz link and response summary.
+* link for the google form - https://docs.google.com/forms/d/e/1FAIpQLSeLIr3GyOz1XZSEkUgROyT98dKG6iy6HINwYHDgvvH9dmHKQg/viewform?usp=publish-editor
 * Includes the **HackerRank** screenshots of my completed challenge for Python.
 
 ### [Task 4: Email Etiquette & Social Media](./task-4-email-etiquette/)
